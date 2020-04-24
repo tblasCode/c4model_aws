@@ -55,6 +55,6 @@ Add additional notes about how to deploy this on a live system
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Reference
+## referencies
 
 * https://github.com/awslabs/aws-icons-for-plantuml
